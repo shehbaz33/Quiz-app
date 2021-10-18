@@ -1,0 +1,5 @@
+-Generate random question from array;
+-Show random question from array in DOM;
+-On submit check for correct answer from object;
+-If correct display that answer is correct;
+-Change the question;
